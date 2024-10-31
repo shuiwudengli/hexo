@@ -341,11 +341,11 @@ navbar:
   # 导航栏菜单，可自行增减，key 用来关联 languages/*.yml，如不存在关联则显示 key 本身的值；icon 是 css class，可以省略；增加 name 可以强制显示指定名称
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
-    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
-    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
-    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill", name:"首页" }
+    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill", name:"归档" }
+    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill", name:"分类" }
+    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill", name:"标签" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill", name:"关于" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
@@ -456,8 +456,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://images.20000207.xyz/api.php
-
+  banner_img: https://images.20000207.xyz/images.php
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
@@ -534,7 +533,7 @@ post:
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img: https://images.20000207.xyz/api.php
+  default_index_img: https://images.20000207.xyz/images.php
 
   # 文章标题下方的元信息
   # Meta information below title
