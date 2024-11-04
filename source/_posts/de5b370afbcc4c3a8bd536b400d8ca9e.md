@@ -1,0 +1,88 @@
+---
+layout: post
+title: 超时空要塞F Macross Frontier マクロスF
+abbrlink: de5b370afbcc4c3a8bd536b400d8ca9e
+tags: []
+categories:
+  - 动画
+date: 1715270737086
+updated: 1715272571287
+---
+
+![超时空要塞F](https://img.20000207.xyz/file/42d9dad0b0ec13228cfca.jpg)
+
+- 类型：[动画](/index.php/category/动画)
+- 分类：[科幻](/index.php/category/科幻)、[时泪经典](/index.php/category/时泪经典)、[机器人动画](/index.php/category/机器人动画)
+- 状态：完结
+- 原案：[河森正治](/index.php/category/河森正治)
+- 总导演：[河森正治](/index.php/category/河森正治)
+- 导演：[菊地康仁](/index.php/category/菊地康仁)
+- 编剧：[吉野弘幸](/index.php/category/吉野弘幸)
+- 音乐：[菅野洋子](/index.php/category/菅野洋子)
+- 制作：[SATELIGHT](/index.php/category/SATELIGHT)
+- 播放日期：[2008年](/index.php/category/2008年)
+- 播放话数：全25话
+- 参考：[维基百科](https://zh.wikipedia.org/wiki/超时空要塞F)
+
+***
+
+《超时空要塞 Frontier》（マクロスFフロンティア）是日本动画《超时空要塞》系列的电视动画第三作，亦是《超时空要塞》系列25周年的纪念作品。于2008年4月在日本开始播放，全25话。另有剧场版三部。
+
+# 剧情简介
+
+公元2059年，航行中的Macross Frontier迎来了偶像歌手雪露・诺姆举办的银河巡回演唱会的最后一场，少女兰花·李去看偶像的演唱会……在宇宙中，Macross Frontier突然遭到了身份不明的宇宙怪兽的攻击，兰花的兄长奥兹马受命率领S.M.S的VF-25紧急迎战，可是新统合军仍然节节败退。并且有宇宙怪兽突破了防线，攻入Macross Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受损的VF-25战机出现在飞行候补生早乙女的面前……
+
+# 动画TV
+
+出自于`[漫友之家&异域动漫联合压制发布][超时空要塞F Macross Frontier][BDrip][1280_720][x264_MP3]`
+
+[动漫花园原贴](https://share.dmhy.org/topics/view/153646_F_Macross_Frontier_BDrip_1280_720_x264_MP3_1-25.html)
+
+> 1. 原帖磁力链接：magnet:?xt=urn:btih:EWJ6FCNYNVG57BYHC62RGA2T5KTY3RQX
+> 2. 直链下载：**为了防止服务器被恶意爆破和爬虫抓取，请按下面提示获取下载地址。请复制全部内容然后粘贴到迅雷软件下载。严禁倒卖直链下载链接**
+
+```
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5BMacross_Frontier%5D%5BPOPGO%5D%5BBDRIP%5D%5BGB%5D%5BSUB_ASS%5D.rar
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5BMacross_Frontier%5D%5BSGS%5D%5BBDRIP%5D%5BGB_BIG5%5D%5BSUB_ASS%5D.rar
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5DOP%20Logo%27d%20%5BTriangler%5D%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B01%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.ass
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B01%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B02%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B03%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B04%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B05%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B06%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B07%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B08%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B09%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B10%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B11%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B12%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B13%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B14%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B15%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B16%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B17%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B18%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B19%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B20%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B21%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B22%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B23%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B24%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%5Bcnmyzj%26yydm%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5B25%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D.mkv
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%E8%B6%85%E6%97%B6f%E6%B5%B7%E6%8A%A5.jpg
+https://drive.aqua-aria.company/directlink/6/root/%E5%8A%A8%E7%94%BB/%5B%E6%BC%AB%E5%8F%8B%E4%B9%8B%E5%AE%B6%26%E5%BC%82%E5%9F%9F%E5%8A%A8%E6%BC%AB%E8%81%94%E5%90%88%E5%8E%8B%E5%88%B6%E5%8F%91%E5%B8%83%5D%5B%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9EF%20Macross%20Frontier%5D%5BBDrip%5D%5B1280_720%5D%5Bx264_MP3%5D/%E8%B6%85%E6%97%B6f%E6%B5%B7%E6%8A%A52.jpg
+```
+
+# 杂类
+
+待更新...
+
+***
+
+- 本文为转载网络上的中文汉化资源
+
+- 下载后请尽量做种一段时间，推荐使用迅雷软件离线下载或者其他支持离线下载的软件。
+
+- BT下载软件推荐迅雷(<https://drive.aqua-aria.company/s/5089yx)或者比特彗星-BitComet(https://pan.lanzouj.com/b073c7g4f>)
